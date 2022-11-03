@@ -1,0 +1,1 @@
+PUT method :  PUT overwrites the entire entity if it already exists, and creates a new resource if it doesn’t exist.
